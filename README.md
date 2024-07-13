@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurang-02&label=Profile%20views&color=0e75b6&style=flat" alt="gaurang-02" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Full Stack App Development**
 
 - 👯 I’m looking to collaborate on **Flutter App dev projects**
 
