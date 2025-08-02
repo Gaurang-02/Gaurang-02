@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack App Development**
 
-- 👯 I’m looking to collaborate on **Flutter App dev projects**
+- 👯 I’m looking to collaborate on **Next js Web App projects**
 
 - 📫 How to reach me **heygaurang.02@gmail.com**
 
